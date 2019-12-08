@@ -1,0 +1,2 @@
+# animals_classification
+这个动物多分类包括纲分类、多种类分类和多输出分类
